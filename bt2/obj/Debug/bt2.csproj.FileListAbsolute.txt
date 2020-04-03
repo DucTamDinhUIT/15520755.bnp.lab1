@@ -1,0 +1,10 @@
+C:\Users\DINH DUC TAM\source\repos\15520755.bnp.lab1\bt2\bin\Debug\bt2.exe.config
+C:\Users\DINH DUC TAM\source\repos\15520755.bnp.lab1\bt2\bin\Debug\bt2.exe
+C:\Users\DINH DUC TAM\source\repos\15520755.bnp.lab1\bt2\bin\Debug\bt2.pdb
+C:\Users\DINH DUC TAM\source\repos\15520755.bnp.lab1\bt2\obj\Debug\bt2.csprojAssemblyReference.cache
+C:\Users\DINH DUC TAM\source\repos\15520755.bnp.lab1\bt2\obj\Debug\bt2.Form1.resources
+C:\Users\DINH DUC TAM\source\repos\15520755.bnp.lab1\bt2\obj\Debug\bt2.Properties.Resources.resources
+C:\Users\DINH DUC TAM\source\repos\15520755.bnp.lab1\bt2\obj\Debug\bt2.csproj.GenerateResource.cache
+C:\Users\DINH DUC TAM\source\repos\15520755.bnp.lab1\bt2\obj\Debug\bt2.csproj.CoreCompileInputs.cache
+C:\Users\DINH DUC TAM\source\repos\15520755.bnp.lab1\bt2\obj\Debug\bt2.exe
+C:\Users\DINH DUC TAM\source\repos\15520755.bnp.lab1\bt2\obj\Debug\bt2.pdb
