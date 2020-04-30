@@ -46,35 +46,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="bt1.cs">
+    <Compile Include="Lab1_bt1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="bt1.Designer.cs">
-      <DependentUpon>bt1.cs</DependentUpon>
+    <Compile Include="Lab1_bt1.Designer.cs">
+      <DependentUpon>Lab1_bt1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Bt2.cs">
+    <Compile Include="Lab1_bt2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Bt2.Designer.cs">
-      <DependentUpon>Bt2.cs</DependentUpon>
+    <Compile Include="Lab1_bt2.Designer.cs">
+      <DependentUpon>Lab1_bt2.cs</DependentUpon>
     </Compile>
-    <Compile Include="Bt3.cs">
+    <Compile Include="Lab1_bt3.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Bt3.Designer.cs">
-      <DependentUpon>Bt3.cs</DependentUpon>
+    <Compile Include="Lab1_bt3.Designer.cs">
+      <DependentUpon>Lab1_bt3.cs</DependentUpon>
     </Compile>
-    <Compile Include="Bt4.cs">
+    <Compile Include="Lab1_bt4.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Bt4.Designer.cs">
-      <DependentUpon>Bt4.cs</DependentUpon>
+    <Compile Include="Lab1_bt4.Designer.cs">
+      <DependentUpon>Lab1_bt4.cs</DependentUpon>
     </Compile>
-    <Compile Include="Bt5.cs">
+    <Compile Include="Lab1_bt5.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Bt5.Designer.cs">
-      <DependentUpon>Bt5.cs</DependentUpon>
+    <Compile Include="Lab1_bt5.Designer.cs">
+      <DependentUpon>Lab1_bt5.cs</DependentUpon>
     </Compile>
     <Compile Include="Dashboard.cs">
       <SubType>Form</SubType>
@@ -84,20 +84,20 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="bt1.resx">
-      <DependentUpon>bt1.cs</DependentUpon>
+    <EmbeddedResource Include="Lab1_bt1.resx">
+      <DependentUpon>Lab1_bt1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Bt2.resx">
-      <DependentUpon>Bt2.cs</DependentUpon>
+    <EmbeddedResource Include="Lab1_bt2.resx">
+      <DependentUpon>Lab1_bt2.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Bt3.resx">
-      <DependentUpon>Bt3.cs</DependentUpon>
+    <EmbeddedResource Include="Lab1_bt3.resx">
+      <DependentUpon>Lab1_bt3.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Bt4.resx">
-      <DependentUpon>Bt4.cs</DependentUpon>
+    <EmbeddedResource Include="Lab1_bt4.resx">
+      <DependentUpon>Lab1_bt4.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Bt5.resx">
-      <DependentUpon>Bt5.cs</DependentUpon>
+    <EmbeddedResource Include="Lab1_bt5.resx">
+      <DependentUpon>Lab1_bt5.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>
